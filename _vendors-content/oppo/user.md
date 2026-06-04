@@ -1,8 +1,8 @@
----
+adb shell /data/app/~~1PSh2L1QAIx0paxkW15oug==/moe.shizuku.privileged.api-mveUdbI8NkrZwDM4as7DEQ==/lib/arm64/libshizuku.so---
 manufacturer: 
     - oppo
 
----
+adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 
 ## Oppo F1S
 
